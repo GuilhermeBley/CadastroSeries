@@ -1,0 +1,13 @@
+C:\Users\Bley\git\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.exe
+C:\Users\Bley\git\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.deps.json
+C:\Users\Bley\git\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.json
+C:\Users\Bley\git\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.dev.json
+C:\Users\Bley\git\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.dll
+C:\Users\Bley\git\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.pdb
+C:\Users\Bley\git\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csprojAssemblyReference.cache
+C:\Users\Bley\git\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\Bley\git\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfo.cs
+C:\Users\Bley\git\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Users\Bley\git\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.dll
+C:\Users\Bley\git\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.pdb
+C:\Users\Bley\git\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.genruntimeconfig.cache
